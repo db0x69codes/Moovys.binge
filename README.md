@@ -20,7 +20,9 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-  This Project fetches Data from TMDB website's api using a Public API key
+
+
+This Project fetches Data from TMDB website's api using a Public API key
 
 <!-- TechStack -->
 ### :space_invader: Tech Stack
